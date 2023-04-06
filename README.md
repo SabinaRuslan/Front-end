@@ -1,4 +1,6 @@
 # Front-end
 Math test
-##Author:Sabina Ruslan
+
+Author:Sabina Ruslan
+
 Math quiz
